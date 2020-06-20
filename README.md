@@ -5,7 +5,7 @@ driver class : chessProject/src/Driver.java
 
 files for art : chessProject/art
 
-project report : chessProject/Final Project PL.docx
+project report : chessProject/Final Project PL.pdf
 
 project video : chessProject/demo.mp4
 
