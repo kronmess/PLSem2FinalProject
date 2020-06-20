@@ -1,7 +1,7 @@
 # PLSem2FinalProject
-directory : chessProject/src
+main directory : chessProject/src
 
-driver class : Driver.java
+driver class : chessProject/src/Driver.java
 
 files for art : chessProject/art
 
